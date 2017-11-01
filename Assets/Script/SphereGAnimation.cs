@@ -53,7 +53,6 @@ public class SphereGAnimation : MonoBehaviour {
 		}else if (mouseCount == 8 && flag) {
 			space8 ();
 		}
-		//Debug.Log (rotateObj.transform.rotation);
 	}
 
 
